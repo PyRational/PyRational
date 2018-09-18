@@ -7,7 +7,7 @@ The rational choice modelling framework in Python.
     
 ## Citation
     @Misc{PyRational2018,
-      author =   {{PyRational}},
+      author =   {{Benavoli, A.}},
       title =    {{PyRational}: A rational choice modelling framework in Python,
       howpublished = {\url{https://github.com/PyRational/PyRational/}},
       year = {since 2018}
