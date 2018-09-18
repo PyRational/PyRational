@@ -1,3 +1,7 @@
-# PyRational Package
+# PyRational 
 
-This is the PyRational package: a package for rational choice modelling.
+The rational choice modelling framework in Python.
+
+    PyRational homepage
+    Tutorial notebooks
+    
