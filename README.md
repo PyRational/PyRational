@@ -6,7 +6,7 @@ The rational choice modelling framework in Python.
 * Tutorial notebooks
     
 ## Citation
-    @Misc{gpy2014,
+    @Misc{PyRational2018,
       author =   {{PyRational}},
       title =    {{PyRational}: A rational choice modelling framework in Python.,
       howpublished = {\url{https://github.com/PyRational/PyRational/}},
