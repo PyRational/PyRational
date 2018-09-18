@@ -2,8 +2,8 @@
 
 The rational choice modelling framework in Python.
 
-    PyRational homepage
-    Tutorial notebooks
+* PyRational homepage
+* Tutorial notebooks
     
 ## Citation
     @Misc{gpy2014,
