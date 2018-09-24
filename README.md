@@ -3,7 +3,7 @@
 The rational choice modelling framework in Python.
 
 * PyRational homepage
-* Tutorial notebooks
+* <a href="https://github.com/PyRational/PyRational/blob/master/notebooks/index.ipynb"> Tutorial notebooks <\a>
     
 ## Citation
     @Misc{PyRational2018,
