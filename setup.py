@@ -15,7 +15,7 @@ setuptools.setup(
     packages = ["PyRational","PyRational.models","PyRational.special"],
     package_dir={'PyRational': 'PyRational'},  
     include_package_data = True,
-    install_requires = ['numpy>=1.7', 'scipy>=0.16', 'SymPy>=1.2'],
+    install_requires = ['numpy>=1.7', 'scipy>=0.16', 'SymPy>=1.2','pyDOE'],
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",
